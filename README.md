@@ -30,3 +30,7 @@ Analysis of **CloudFlow**, a file-sharing platform for businesses: user activity
 
 - Google BigQuery
 - SQL: CTEs and window functions
+
+## Author
+
+Menyssa Cherifa, data analyst: [GitHub profile](https://github.com/clmenyssa)
