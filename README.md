@@ -1,6 +1,6 @@
 # CloudFlow year-end review in SQL
 
-Analysis of **CloudFlow**, a file-sharing platform for businesses: user activity, churn risk and revenue in 2025, with SQL in BigQuery.
+Analysis of **CloudFlow**, a file-sharing platform for businesses: user activity, churn risk and revenue in 2025, answered with six SQL queries in BigQuery.
 
 ## Business questions
 
